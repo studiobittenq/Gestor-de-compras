@@ -1,0 +1,7 @@
+{
+  "name": "DomusAI - Gestão Residencial Inteligente",
+  "description": "Um ecossistema inteligente para gestão de compras, estoque preditivo e inteligência de preços utilizando IA para economia doméstica.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
